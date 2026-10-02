@@ -1,0 +1,7 @@
+| Position | Expected Raw ADC | Expected PWM | Actual Raw ADC | Actual PWM |
+| :------: | :--------------: | :----------: | :------------- | :--------- |
+| Minimum  | 0                | 0            | 0              | 0          |
+| Low      | 1023.75          | 64           | 1023           | 65         |
+| Middle   | 2047.5           | 128          | 2046           | 126        |
+| High     | 3071.25          | 19           | 3071           | 191        |
+| Maximum  | 4095             | 255          | 4095           | 255        |
